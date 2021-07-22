@@ -77,7 +77,7 @@
 //     -- increaseMaxSpeed (newSpeed) - яка підвищує значення максимальної швидкості на значення newSpeed
 //     -- changeYear (newValue) - змінює рік випуску на значення newValue
 //     -- addDriver (driver) - приймає об'єкт який "водій" з довільним набором полів, і доавляет його в поточний об'єкт car
-
+//
 //  class Car{
 //  constructor(models,vurobnuk,years,max_speed,engine) {
 //      this.models=models;
@@ -121,6 +121,44 @@
 // За допомоги циклу знайти яка попелюшка повинна бути з принцом.
 // Додатково, знайти необхідну попелюшку за допомоги функції масиву find та відповідного колбеку
 
+class Cinderella{
+    constructor(name,age,foot_size) {
+        this.name=name;
+        this.age=age;
+        this.foot_size=foot_size;
+    }
+    happyEnd(){
+        for (let i = 0; i < cinderella.length; i++) {
+            if(cinderella.foot_size===prince.shoes_size){
+                return `${prince.name} найшов туфельку ${cinderella.name}`;
+            }
+            else return 0;
+        }
+    }
 
+}
+
+ let cinderella=[
+     new Cinderella('tamara',15,36),
+     new Cinderella('tamara',13,33),
+     new Cinderella('tamara',19,36),
+     new Cinderella('tamara',23,34),
+     new Cinderella('tamara',17,39),
+     new Cinderella('tamara',18,40),
+     new Cinderella('tamara',22,36),
+     new Cinderella('tamara',26,36),
+     new Cinderella('tamara',27,36),
+     new Cinderella('tamara',28,36),
+ ];
+console.log(cinderella.happyEnd());
+class Prince {
+    constructor(name, age, shoes_size) {
+        this.name = name;
+        this.age = age;
+        this.shoes_size = shoes_size;
+    }
+}
+
+let prince=new Prince('seryu',28,39);
 
 
