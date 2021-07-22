@@ -24,11 +24,14 @@ console.log(class_rules);
 for (const classRule of class_rules) {
     classRule.style.color='red';
     classRule.onclick = function () {
-        console.log(`${class_rules}`);
+        let classRules=classRule[0];
+  console.log(classRules.innerText);
+
     }
 
     // classRule.onclick =function (){
     //     console.log('egegdfhfhg');
     // }
 }
+
 

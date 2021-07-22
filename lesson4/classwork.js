@@ -127,15 +127,6 @@ class Cinderella{
         this.age=age;
         this.foot_size=foot_size;
     }
-    happyEnd(){
-        for (let i = 0; i < cinderella.length; i++) {
-            if(cinderella.foot_size===prince.shoes_size){
-                return `${prince.name} найшов туфельку ${cinderella.name}`;
-            }
-            else return 0;
-        }
-    }
-
 }
 
  let cinderella=[
@@ -150,7 +141,7 @@ class Cinderella{
      new Cinderella('tamara',27,36),
      new Cinderella('tamara',28,36),
  ];
-console.log(cinderella.happyEnd());
+
 class Prince {
     constructor(name, age, shoes_size) {
         this.name = name;
@@ -161,4 +152,14 @@ class Prince {
 
 let prince=new Prince('seryu',28,39);
 
+// for (let i = 0; i < cinderella.length; i++) {
+//     if(cinderella[i].foot_size===prince.shoes_size){
+//         console.log(`${prince.name} найшов туфельку ${cinderella.name}`);
+//     }
+// }
+for (const cinderellas of cinderella) {
+    if(cinderella[i].foot_size===prince.shoes_size){
+        console.log(`${prince.name} найшов туфельку ${cinderella.name}`);
+    }
+}
 
