@@ -18,20 +18,17 @@ document.body.style.color='blue';
 
 console.log(rules.classList);
 //отримати всі елементи з класом fc_rules. визначити їм 2 події "клік", одна вивдоить текст елементу, інша довільний ьексь
-let class_rules=document.getElementsByClassName('fc_rules');
-console.log(class_rules);
-
-for (const classRule of class_rules) {
-    classRule.style.color='red';
-    classRule.onclick = function () {
-        let classRules=classRule[0];
-  console.log(classRules.innerText);
-
-    }
-
-    // classRule.onclick =function (){
-    //     console.log('egegdfhfhg');
-    // }
-}
+//поміняти колір тексту у всіх елементів fc_rules на червоний
+// let class_rules=document.getElementsByClassName('fc_rules');
+//
+// for (const classRule of class_rules) {
+//    // classRule.style.color='red';
+//     classRule.onclick = function () {
+//   console.log(classRule.innerText);
+//   console.log('ababagalamaga');
+//
+//     }
+//
+// }
 
 
