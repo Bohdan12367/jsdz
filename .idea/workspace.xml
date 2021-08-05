@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3b8a9a1-5fbd-454a-b8ce-abd560a2c467" name="Default Changelist" comment="commitlesson55">
+      <change afterPath="$PROJECT_DIR$/lesson6/additional.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/classwork.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/homework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vf2zHJ14QnpzcgGv2JXa1YEW48" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson5" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lukas\Desktop\jsdz\lesson5" />
+      <recent name="C:\Users\lukas\Desktop\jsdz\lesson4" />
+      <recent name="C:\Users\lukas\Desktop\jsdz\lesson3" />
+      <recent name="C:\Users\lukas\Desktop\jsdz\lesson2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3b8a9a1-5fbd-454a-b8ce-abd560a2c467" name="Default Changelist" comment="" />
+      <created>1626939083202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626939083202</updated>
+      <workItem from="1626939084441" duration="851000" />
+      <workItem from="1626939954818" duration="4000" />
+      <workItem from="1626939993678" duration="54290000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1626940017026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626940017026</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1626940087976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626940087977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit1">
+      <created>1626940474353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626940474353</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commitlesson2">
+      <created>1626940780516</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626940780516</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commitlesson3">
+      <created>1626940946244</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626940946244</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commitlesson4">
+      <created>1626948753898</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626948753898</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commitlesson5">
+      <created>1626962847006</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626962847006</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commitlesson5">
+      <created>1626972619900</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626972619900</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commitlesson55">
+      <created>1627463150493</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627463150493</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="commit1" />
+    <MESSAGE value="commitlesson2" />
+    <MESSAGE value="commitlesson3" />
+    <MESSAGE value="commitlesson4" />
+    <MESSAGE value="commitlesson5" />
+    <MESSAGE value="commitlesson55" />
+    <option name="LAST_COMMIT_MESSAGE" value="commitlesson55" />
+  </component>
+</project>
